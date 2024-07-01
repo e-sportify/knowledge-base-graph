@@ -1,0 +1,5 @@
+domain:: format
+
+- a [[format]] where a single loss result in the elimination of a [[participant]]
+- the [[bracket]] for this format often takes the form of a balanced binary tree
+- for case when an odd number of [[participant]]s is at play, usually multiple [[bye]]s is(are) applied

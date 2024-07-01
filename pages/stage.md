@@ -1,0 +1,15 @@
+domain:: management
+category:: definition
+
+- a stage is the direct unit under [[tournament]], meaning that a tournament can have multiple stages
+- one frequent use of stage is usually, tournaments have 2 stages:
+id:: 66826040-4b9f-4383-92fc-e5b11deb7ebd
+	- group stage: reduce the number of [[participant]] with the use of [[group]] or/and various [[format]]s like [[single elimination]], [[double elimination]], and [[single round robin]]
+	- playoffs: the remaining [[participant]]s come together and compete until one or two participant remain on top
+- #FAQ
+	- How many stages can a [[tournament]] have?
+		- This can be divided into 4 categories:
+			- single stage tournament: all [[participant]]s compete in a single bracket, the stage winner is also the tournament winner
+			- two stage tournament: refer to this [block](((66826040-4b9f-4383-92fc-e5b11deb7ebd)))
+			- three stage tournament: when the [[organizer]] want to first [[seed]] the [[participant]]s, they can use an additional stage to apply [[format]]s such as [[Swiss]] to seed all the participants, then they can use the result to advance with the real stages, e.g. a seeded [[single round robin]]/ [[double elimination]] as group stage
+			- more than 3 stage tournament: when the [[organizer]] wants to have multiple stages run simultaneously, they can host multiple stages to reduce the number of [[participant]]s, and have them advance to the later stages
